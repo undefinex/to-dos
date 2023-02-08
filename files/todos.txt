@@ -1,5 +1,6 @@
 cleanshower
-watchMovie
-apply jobs
-test
+clean housefoodtest
 Master Python
+Party
+date her
+add lastly
